@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Burger</string>
+    <string name="burgerTool">Beef Burger</string>
+    <string name="burgerFiyat">$ 12.50</string>
+    <string name="mSize">M</string>
+    <string name="lSize">L</string>
+    <string name="xlSize">XL</string>
+    <string name="degerlendirme">4.9</string>
+    <string name="teslimatSuresi">30 min</string>
+    <string name="urunAciklama">This beef burger use 100% quality beef with sliced tomatoes, cucumbers, vegetables and onions...More</string>
+    <string name="hesapYazi">Total</string>
+    <string name="hesapTutar">$ 25</string>
+    <string name="sepetEkleButon">Add to cart</string>
+    <string name="urunMiktar">2</string>
+</resources>

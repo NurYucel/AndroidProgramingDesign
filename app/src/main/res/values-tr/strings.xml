@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Burger</string>
+    <string name="burgerTool">Etli Burger</string>
+    <string name="burgerFiyat">150 ₺</string>
+    <string name="mSize">M</string>
+    <string name="lSize">L</string>
+    <string name="xlSize">XL</string>
+    <string name="degerlendirme">4.9</string>
+    <string name="teslimatSuresi">30 dk</string>
+    <string name="urunAciklama">Bu et burgerde, dilimlenmiş domates, salatalık,sebze ve soğan ile %100 daha eti kullanılır... Fazlası</string>
+    <string name="hesapYazi">Toplam</string>
+    <string name="hesapTutar">300 ₺</string>
+    <string name="sepetEkleButon">Sepete ekle</string>
+    <string name="urunMiktar">2</string>
+</resources>
